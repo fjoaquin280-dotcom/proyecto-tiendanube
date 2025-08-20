@@ -1,0 +1,79 @@
+.section1{
+ background-color: #003DA5;  
+ color: white; 
+  font-family:var(--main-font-family);
+}
+body{
+     height:100vh;
+    width:100vw;
+}
+.registrarse{
+    background-color: blue;
+    width: 170px;
+    height: 35px;
+    border-radius: 15px;
+    color: white;
+}
+button{
+    width: 170px;
+    height: 35px;
+    border-radius: 15px;
+    color: blue;
+}
+a {
+    color: rgb(0, 0, 179);
+    text-decoration: none;
+}
+input{
+width: 150px;   
+border: none; 
+}
+.container {
+  background: #fff;
+  border-radius: 40px; 
+  padding: 5px;
+  width: 400px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+.logo{
+    color: white;
+}
+.logearse{
+    color: white;
+}
+h1{
+    font-family:var(--main-font-family);
+   font-size: 40px;
+}
+
+.section2{
+    color: black; 
+  font-family:var(--main-font-family);
+}
+.tarjeta{
+    width: 300px;
+  padding: 20px;
+  background: #fff;
+  border: 1px solid #003DA5;
+  border-radius: 12px;    
+}
+
+.section3{
+  color:white; 
+  font-family:var(--main-font-family);
+  background-color: blue;
+}
+.comentarios{
+    color: black;
+    width: 400px;
+  padding: 50px;
+  background:white;
+  border: 1px solid #010306;
+  border-radius: 12px;
+  margin: 250px;
+  margin-bottom: 50px;
+  
+}
+.justificacion{
+flex: 0 0 var(--bullets-icon-size);}
